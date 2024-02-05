@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">guicalc</string>
+    <string name="divideOperation">\\</string>
+</resources>
